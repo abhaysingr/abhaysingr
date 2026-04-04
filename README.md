@@ -2,8 +2,9 @@
 
 ### Fresh Computer Science Engineering graduate, passionate about building full‑stack and AI‑driven applications.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaysinghrathore-dev&label=Profile views&color=0e75b6&style=flat" alt="abhaysinghrathore-dev" /> </p>
-<p>https://fontawesome.com/icons/github?f=brands&s=solid</p>
+<a href="https://github.com/abhaysingr" target="blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</a>
 
 <p align="left"> <a href="https://twitter.com/abhaysingr2003" target="blank"><img src="https://img.shields.io/twitter/follow/abhaysingr2003?logo=twitter&style=for-the-badge" alt="abhaysingr2003" /></a> </p>
 
