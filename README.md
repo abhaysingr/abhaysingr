@@ -88,7 +88,7 @@ What makes me different isn't just the breadth of the stack — it's how I learn
 
 If you're building something at the intersection of **web and AI**, I'm the engineer you want in the room — or the repo.
 
-<div align="right">
+<div align="center">
 <i>"The best engineers aren't those who know the most — they're the ones who never stop building."</i>
 </div>
 
