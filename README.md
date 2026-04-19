@@ -270,7 +270,7 @@ A production-architected fitness ecosystem built on microservices — handling u
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhaysingr&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abhaysingr&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%"/>
 </div>
 
 ---
@@ -287,43 +287,6 @@ A production-architected fitness ecosystem built on microservices — handling u
   </picture>
 </div>
 
-<details>
-<summary>⚙️ <b>How to activate the snake animation</b></summary>
-<br/>
-
-1. Create `.github/workflows/snake.yml` in your profile repo (`abhaysingr/abhaysingr`)
-2. Paste this workflow:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Run the workflow once manually — it'll generate and self-update every 12 hours. ✅
-
-</details>
-
 ---
 
 <!-- ══════════════════════════ WAKATIME ══════════════════════════ -->
@@ -333,17 +296,6 @@ jobs:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhaysingr2003&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=A78BFA&layout=compact" width="70%"/>
 </div>
-
-<details>
-<summary>⚙️ <b>How to activate WakaTime stats</b></summary>
-<br/>
-
-1. Sign up free at [wakatime.com](https://wakatime.com)
-2. Install the WakaTime plugin in VS Code / IntelliJ / your IDE
-3. Copy your **WakaTime username** and replace `YOUR_WAKATIME_USERNAME` above
-4. Stats update automatically as you code ✅
-
-</details>
 
 ---
 
