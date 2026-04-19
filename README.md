@@ -7,7 +7,14 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=I+build+things+that+think+%F0%9F%A7%A0;Full-Stack+%2B+GenAI+%3D+My+Default+Stack+%F0%9F%9A%80;React+%7C+Node.js+%7C+Spring+Boot+%7C+LangChain;Microservices+%7C+Docker+%7C+Jenkins+%7C+Python;Quick+Learner.+Deep+Thinker.+Consistent+Shipper.+%E2%9A%A1" alt="Typing SVG"/>
 </a>
-
+<div align="center">
+  <br/>
+  <a href="https://abhay-portfolio-three-tau.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/VISIT_PORTFOLIO_WEBSITE-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=12100E&border=7C3AED" height="40"/>
+  </a>
+  <br/>
+  <p><i>Building the future of AI-driven web experiences.</i></p>
+</div>
 <br/>
 
 <!-- ══════════════════════════ SOCIAL BADGES ══════════════════════════ -->
