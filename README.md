@@ -270,8 +270,7 @@ A production-architected fitness ecosystem built on microservices — handling u
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhaysingr&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%"/>
-</div>
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=abhaysingr&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%"/></div>
 
 ---
 
